@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/14-web-attacks/web-attacks-basics/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/14-web-attacks/web-attacks-basics/","dgPassFrontmatter":true}
 ---
 
 # Web Attacks Basics
