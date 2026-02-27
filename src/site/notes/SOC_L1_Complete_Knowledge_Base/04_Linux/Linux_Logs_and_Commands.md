@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/04-linux/linux-logs-and-commands/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/04-linux/linux-logs-and-commands/","dgPassFrontmatter":true}
 ---
 
 # Linux Logs & Commands

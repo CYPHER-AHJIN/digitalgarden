@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/07-mitre/mitre-att-and-ck-soc-l1-detection-matrix/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/07-mitre/mitre-att-and-ck-soc-l1-detection-matrix/","dgPassFrontmatter":true}
 ---
 
 # MITRE ATT&CK Matrix — SOC L1 Detection Coverage

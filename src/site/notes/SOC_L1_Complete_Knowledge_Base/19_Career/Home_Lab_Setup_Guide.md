@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/19-career/home-lab-setup-guide/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/19-career/home-lab-setup-guide/","dgPassFrontmatter":true}
 ---
 
 # Home Lab Setup Guide — Free Tools Only

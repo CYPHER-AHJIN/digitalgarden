@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/17-interview-prep/interview-questions/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/17-interview-prep/interview-questions/","dgPassFrontmatter":true}
 ---
 
 # SOC Interview Questions — Technical Q&A

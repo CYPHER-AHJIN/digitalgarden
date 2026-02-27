@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/05-siem/siem-overview-splunk-elk/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/05-siem/siem-overview-splunk-elk/","dgPassFrontmatter":true}
 ---
 
 # SIEM Overview — Splunk & ELK

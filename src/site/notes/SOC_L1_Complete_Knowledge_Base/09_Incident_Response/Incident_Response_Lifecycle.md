@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/09-incident-response/incident-response-lifecycle/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/09-incident-response/incident-response-lifecycle/","dgPassFrontmatter":true}
 ---
 
 # Incident Response Lifecycle

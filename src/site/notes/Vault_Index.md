@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-index/"}
+{"dg-publish":true,"dg-home":true,"permalink":"/vault-index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # 🛡️ SOC L1 Complete Knowledge Base — Vault Index

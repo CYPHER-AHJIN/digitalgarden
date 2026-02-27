@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/20-labs/detection-labs-30-ideas/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/soc-l1-complete-knowledge-base/20-labs/detection-labs-30-ideas/","dgPassFrontmatter":true}
 ---
 
 # 30 Hands-On Detection Labs

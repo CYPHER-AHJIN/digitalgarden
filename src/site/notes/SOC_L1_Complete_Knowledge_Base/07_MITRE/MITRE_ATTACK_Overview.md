@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/07-mitre/mitre-attack-overview/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/07-mitre/mitre-attack-overview/","dgPassFrontmatter":true}
 ---
 
 # MITRE ATT&CK Overview

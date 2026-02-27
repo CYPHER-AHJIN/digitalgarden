@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/19-career/soc-l1-to-l2-roadmap/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/19-career/soc-l1-to-l2-roadmap/","dgPassFrontmatter":true}
 ---
 
 # SOC L1 → SOC L2 Career Roadmap

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/cyber-kill-chain/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/cyber-kill-chain/","dgPassFrontmatter":true}
 ---
 
 # Cyber Kill Chain

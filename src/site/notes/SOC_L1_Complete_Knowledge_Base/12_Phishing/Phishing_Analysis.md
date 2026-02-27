@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/12-phishing/phishing-analysis/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/12-phishing/phishing-analysis/","dgPassFrontmatter":true}
 ---
 
 # Phishing Analysis

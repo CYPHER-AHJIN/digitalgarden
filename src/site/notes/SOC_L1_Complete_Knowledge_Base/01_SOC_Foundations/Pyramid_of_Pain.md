@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/pyramid-of-pain/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/pyramid-of-pain/","dgPassFrontmatter":true}
 ---
 
 # Pyramid of Pain

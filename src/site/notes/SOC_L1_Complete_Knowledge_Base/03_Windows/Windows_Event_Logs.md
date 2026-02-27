@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/03-windows/windows-event-logs/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/03-windows/windows-event-logs/","dgPassFrontmatter":true}
 ---
 
 # Windows Event Logs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/16-tools/tools-reference/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/16-tools/tools-reference/","dgPassFrontmatter":true}
 ---
 
 # Tools Reference

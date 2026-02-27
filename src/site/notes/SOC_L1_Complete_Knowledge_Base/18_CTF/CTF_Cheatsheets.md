@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/18-ctf/ctf-cheatsheets/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/18-ctf/ctf-cheatsheets/","dgPassFrontmatter":true}
 ---
 
 # CTF Blue Team Cheatsheets

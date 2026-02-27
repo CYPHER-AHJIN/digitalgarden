@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/15-ids-ips/ids-ips/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/15-ids-ips/ids-ips/","dgPassFrontmatter":true}
 ---
 
 # IDS/IPS Fundamentals

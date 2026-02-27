@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/02-networking/networking-fundamentals/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/02-networking/networking-fundamentals/","dgPassFrontmatter":true}
 ---
 
 # Networking Fundamentals for SOC

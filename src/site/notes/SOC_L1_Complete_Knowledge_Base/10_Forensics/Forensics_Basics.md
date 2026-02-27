@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/10-forensics/forensics-basics/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/10-forensics/forensics-basics/","dgPassFrontmatter":true}
 ---
 
 # Forensics Basics

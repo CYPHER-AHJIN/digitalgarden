@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/soc-l1-survival-guide/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/soc-l1-survival-guide/","dgPassFrontmatter":true}
 ---
 
 # SOC L1 Survival Guide

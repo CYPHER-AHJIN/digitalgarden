@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/06-threat-intel/threat-intelligence/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/06-threat-intel/threat-intelligence/","dgPassFrontmatter":true}
 ---
 
 # Threat Intelligence

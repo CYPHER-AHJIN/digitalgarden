@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/soc-fundamentals/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/01-soc-foundations/soc-fundamentals/","dgPassFrontmatter":true}
 ---
 
 # SOC Fundamentals

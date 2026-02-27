@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/09-incident-response/soc-investigation-playbooks/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/09-incident-response/soc-investigation-playbooks/","dgPassFrontmatter":true}
 ---
 
 # SOC Investigation Playbooks

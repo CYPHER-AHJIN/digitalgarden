@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/03-windows/windows-commands/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/03-windows/windows-commands/","dgPassFrontmatter":true}
 ---
 
 # Windows Commands Reference

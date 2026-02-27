@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/13-brute-force/brute-force-password-attacks/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/13-brute-force/brute-force-password-attacks/","dgPassFrontmatter":true}
 ---
 
 # Brute Force & Password Attacks

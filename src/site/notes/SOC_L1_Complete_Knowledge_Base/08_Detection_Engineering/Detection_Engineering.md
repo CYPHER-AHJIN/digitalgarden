@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soc-l1-complete-knowledge-base/08-detection-engineering/detection-engineering/"}
+{"dg-publish":true,"dg-home":null,"permalink":"/soc-l1-complete-knowledge-base/08-detection-engineering/detection-engineering/","dgPassFrontmatter":true}
 ---
 
 # Detection Engineering
